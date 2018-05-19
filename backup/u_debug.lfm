@@ -1,0 +1,73 @@
+object f_debug: Tf_debug
+  Left = 422
+  Height = 149
+  Top = 381
+  Width = 787
+  Caption = 'Отладка процесса NW.js'
+  ClientHeight = 149
+  ClientWidth = 787
+  OnClose = FormClose
+  OnShow = FormShow
+  LCLVersion = '1.8.2.0'
+  object top_panel: TPanel
+    Left = 0
+    Height = 32
+    Top = 0
+    Width = 787
+    Align = alTop
+    BevelOuter = bvNone
+    ClientHeight = 32
+    ClientWidth = 787
+    Color = 5000268
+    ParentColor = False
+    TabOrder = 0
+    object re_debug: TLabel
+      Left = 4
+      Height = 24
+      Top = 4
+      Width = 102
+      Align = alLeft
+      Alignment = taCenter
+      AutoSize = False
+      BorderSpacing.Around = 4
+      Caption = 'Перезапуск'
+      Color = 6052956
+      Font.Color = clWhite
+      Layout = tlCenter
+      ParentColor = False
+      ParentFont = False
+      Transparent = False
+    end
+    object stop_debug: TLabel
+      Left = 110
+      Height = 24
+      Top = 4
+      Width = 105
+      Align = alLeft
+      Alignment = taCenter
+      AutoSize = False
+      BorderSpacing.Around = 4
+      Caption = 'Остановить'
+      Color = 6052956
+      Font.Color = clWhite
+      Layout = tlCenter
+      ParentColor = False
+      ParentFont = False
+      Transparent = False
+    end
+  end
+  object debug_log: TMemo
+    Left = 0
+    Height = 117
+    Top = 32
+    Width = 787
+    Align = alClient
+    BorderStyle = bsNone
+    Color = 4737096
+    Font.Color = 8716233
+    ParentFont = False
+    ReadOnly = True
+    ScrollBars = ssAutoBoth
+    TabOrder = 1
+  end
+end

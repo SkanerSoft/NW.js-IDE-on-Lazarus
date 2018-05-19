@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="27">
+      <Unit0>
+        <Filename Value="nw_ide.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos Y="14"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="u_pm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_pm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="256"/>
+        <CursorPos X="19" Y="266"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="u_editor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_editor"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="97"/>
+        <CursorPos Y="108"/>
+        <UsageCount Value="95"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="u_functions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="67"/>
+        <CursorPos X="6" Y="107"/>
+        <UsageCount Value="95"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="u_frame_editor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_frame_editor"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="17" Y="37"/>
+        <UsageCount Value="84"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="u_debug.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_debug"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="75"/>
+        <CursorPos X="7" Y="75"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="u_settings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_settings"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="69"/>
+        <CursorPos X="6" Y="69"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/packages/fcl-json/src/fpjson.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos X="14" Y="120"/>
+        <UsageCount Value="2"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/interfaces/gtk2/gtk2widgetset.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1300"/>
+        <CursorPos Y="1310"/>
+        <UsageCount Value="2"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3416"/>
+        <CursorPos Y="3427"/>
+        <UsageCount Value="4"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/objpas/sysutils/filutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="112"/>
+        <CursorPos X="16" Y="130"/>
+        <UsageCount Value="3"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/objpas/sysutils/sysuni.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="2" Y="12"/>
+        <UsageCount Value="3"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/unix/classes.pp"/>
+        <UnitName Value="Classes"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="3"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/shellctrls.pas"/>
+        <UnitName Value="ShellCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1327"/>
+        <CursorPos Y="1331"/>
+        <UsageCount Value="4"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="688"/>
+        <CursorPos X="14" Y="697"/>
+        <UsageCount Value="4"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/objpas/sysutils/syshelph.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="166"/>
+        <CursorPos X="14" Y="177"/>
+        <UsageCount Value="4"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="/usr/share/lazarus/1.8.2/components/synedit/syneditkeycmds.pp"/>
+        <UnitName Value="SynEditKeyCmds"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="274"/>
+        <CursorPos X="3" Y="276"/>
+        <UsageCount Value="5"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="747"/>
+        <CursorPos X="11" Y="737"/>
+        <UsageCount Value="5"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2230"/>
+        <CursorPos X="14" Y="2240"/>
+        <UsageCount Value="5"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/lclproc.pas"/>
+        <UnitName Value="LCLProc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="905"/>
+        <CursorPos Y="916"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/packages/fcl-process/src/process.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="32" Y="26"/>
+        <UsageCount Value="9"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1474"/>
+        <CursorPos X="39" Y="1484"/>
+        <UsageCount Value="9"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="405"/>
+        <CursorPos X="12" Y="419"/>
+        <UsageCount Value="9"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/include/custompage.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="266"/>
+        <UsageCount Value="9"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/customdrawncontrols.pas"/>
+        <UnitName Value="CustomDrawnControls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="730"/>
+        <CursorPos X="15" Y="746"/>
+        <UsageCount Value="9"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/comctrls.pp"/>
+        <UnitName Value="ComCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="467"/>
+        <CursorPos X="14" Y="476"/>
+        <UsageCount Value="9"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="/usr/share/lazarus/1.8.2/lcl/include/winapih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="209"/>
+        <CursorPos X="10" Y="219"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="187" TopLine="175"/>
+      </Position1>
+      <Position2>
+        <Filename Value="u_pm.pas"/>
+        <Caret Line="80" Column="16" TopLine="75"/>
+      </Position2>
+      <Position3>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="186" Column="7" TopLine="174"/>
+      </Position3>
+      <Position4>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="176" Column="6" TopLine="175"/>
+      </Position4>
+      <Position5>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="178" Column="6" TopLine="177"/>
+      </Position5>
+      <Position6>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="35" Column="26" TopLine="85"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="248" Column="29" TopLine="230"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="249" Column="19" TopLine="235"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="35" Column="5" TopLine="24"/>
+      </Position9>
+      <Position10>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="14" Column="3" TopLine="3"/>
+      </Position10>
+      <Position11>
+        <Filename Value="u_functions.pas"/>
+        <Caret Line="56" Column="32" TopLine="37"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_functions.pas"/>
+        <Caret Line="133" Column="3" TopLine="117"/>
+      </Position12>
+      <Position13>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="250" Column="16" TopLine="237"/>
+      </Position13>
+      <Position14>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="35" Column="5" TopLine="24"/>
+      </Position14>
+      <Position15>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="19" Column="16" TopLine="3"/>
+      </Position15>
+      <Position16>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="21" Column="44" TopLine="7"/>
+      </Position16>
+      <Position17>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="119" Column="5" TopLine="99"/>
+      </Position17>
+      <Position18>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="20" Column="5" TopLine="11"/>
+      </Position18>
+      <Position19>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="21" Column="33" TopLine="10"/>
+      </Position19>
+      <Position20>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="9" Column="72"/>
+      </Position20>
+      <Position21>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="20"/>
+      </Position21>
+      <Position22>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="102" Column="18" TopLine="95"/>
+      </Position22>
+      <Position23>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="99" Column="16" TopLine="94"/>
+      </Position23>
+      <Position24>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="101" Column="15" TopLine="97"/>
+      </Position24>
+      <Position25>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="104" Column="58" TopLine="94"/>
+      </Position25>
+      <Position26>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="101" Column="17" TopLine="95"/>
+      </Position26>
+      <Position27>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="102" Column="12" TopLine="95"/>
+      </Position27>
+      <Position28>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="71" Column="24" TopLine="71"/>
+      </Position28>
+      <Position29>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="261" TopLine="255"/>
+      </Position29>
+      <Position30>
+        <Filename Value="u_editor.pas"/>
+        <Caret Line="108" Column="21" TopLine="97"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

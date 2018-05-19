@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1513128808"/>
+  <Params Value=" -MObjFPC -Schi -CX -Cg -O1 -g -gl -Xg -Xs -l -vewnhibq -Fi/home/skaner/Lazarus/nw_ide/lib/x86_64-linux -Fu/usr/share/lazarus/1.8.2/components/synedit/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/1.8.2/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/1.8.2/lcl/units/x86_64-linux -Fu/usr/share/lazarus/1.8.2/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/1.8.2/packager/units/x86_64-linux -Fu/home/skaner/Lazarus/nw_ide/ -FU/home/skaner/Lazarus/nw_ide/lib/x86_64-linux/ -dLCL -dLCLgtk2 nw_ide.lpr"/>
+</CONFIG>
